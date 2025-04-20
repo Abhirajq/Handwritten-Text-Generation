@@ -49,7 +49,6 @@ The dataset includes the following features:
 4. **Votes vs. Rating**: Examine the relationship between the number of votes and movie ratings.
 5. **Actors' Popularity**: Analyze the number of movies featuring top actors.
 6. **Movies Released Over the Years**: Study trends in the number of movies released each year.
-7. **Movies with High Ratings and Votes**: Filter movies that have high ratings and a large number of votes.
 
 ## Feature Engineering
 
