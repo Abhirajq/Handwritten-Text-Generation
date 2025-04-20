@@ -1,1 +1,1 @@
-# Handwritten-Text-Generation
+# Movie Rating Prediction
